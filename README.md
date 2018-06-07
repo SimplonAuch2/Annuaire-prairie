@@ -1,5 +1,8 @@
 # Annuaire
 
+Obligation de créer un repository sur GitHub et de push régulièrement son travail
+ => à chaque étape de création du programme (dès que quelque chose fonctionne) [cheatsheet](https://github.com/SimplonAuch2/programme-web-dev/wiki/Semaine-1)
+Utilisez [Trello](https://trello.com/) pour vous organiser (to do / progress / done)
 
 ### BDD (PHP/MySQL)
 * téléchargez ce repository (dossier)

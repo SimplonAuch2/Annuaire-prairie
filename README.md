@@ -2,7 +2,8 @@
 
 
 ### BDD (PHP/MySQL)
-* importez le fichier annuaire.sql fourni
+* téléchargez ce repository (dossier)
+* importez le fichier annuaire.sql fourni dans phpMyAdmin
   * ouvrez le avant, pour voir ce qu'il fait :D
   * dans phpMyAdmin, créez une nouvelle base données (utf8_general_ci)
   * allez dans l'onglet "importer": choisissez le fichier et executez l'importation
